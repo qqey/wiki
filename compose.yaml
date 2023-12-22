@@ -4,6 +4,6 @@ services:
     image: squidfunk/mkdocs-material
     restart: always
     ports:
-      - "8000:8000"
+      - "8001:8000"
     volumes:
       - "${PWD}:/docs"
