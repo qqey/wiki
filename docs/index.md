@@ -1,4 +1,4 @@
-# wikiey
+# ホーム
 
 qqey.netに関する情報をまとめたwiki(wikiey)です。
 
