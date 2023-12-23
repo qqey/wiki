@@ -24,3 +24,10 @@ webページのみを閲覧する場合はVPNを使用する必要はありま�
 1. Tailscale Clientをインストールします。<https://tailscale.com/download>
 2. MultiNetworkの「qqey」を選択します。
 3. TailscaleのVPNが接続され，qqey.netのサービスにアクセスできるようになります。
+
+## SoftEther VPNでのVPNの設定方法
+
+- サーバアドレス: softether.qqey.net
+- ユーザー名: GitHubアカウント名
+- パスワード: 同上
+- 共有鍵: qqey
