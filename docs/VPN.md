@@ -1,13 +1,5 @@
 # VPNの使い方の手引き
 
-## 目次
-
-- VPNとは
-- VPNの利点
-- VPNの設定方法
-- VPNの接続方法
-- VPNの注意点
-
 ## VPNとは
 
 VPN（Virtual Private Network）は、インターネット上でセキュアな通信を行うための仮想的なネットワークです。<br/>
